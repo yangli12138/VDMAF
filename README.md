@@ -22,8 +22,9 @@ We put the images involved in the paper in the folder `fig\`
 
 Please install them first.
 
-```py
-cd VDMAF
+```
+unzip VDMAF-main.zip
+cd VDMAF_main
 conda create -n vdmaf python=3.9 
 conda activate vdmaf
 pip install -r requirements.txt
