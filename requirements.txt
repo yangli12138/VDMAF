@@ -1,9 +1,0 @@
-gensim
-keras
-joern
-matplotlib
-pandas
-numpy
-sklearn
-tensorflow-gpu==2.6.0
-tensorboard
