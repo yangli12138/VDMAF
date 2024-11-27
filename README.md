@@ -18,11 +18,26 @@ Bagheri [3]: https://drive.google.com/file/d/1OrPsAxdIZ_6jWBmDyJYaSIoe9hNlR6YN/v
 
 We put the images involved in the paper in the folder `fig\` 
 
+## Install dependencies
+
+Please install them first.
+
+```py
+cd VDMAF
+conda create -n vdmaf python=3.9 
+conda activate vdmaf
+pip install -r requirements.txt
+```
 ## About the Models
 
+In the replication, we provide:
 
-
-
+* `train_w2vmodel.py` : Used to train word embeddings
+* `get_corpus.py` : Used to generate a corpus
+* `makemodel.py` : Used to train models
+* `myutils.py` : Toolkit for training models
+* `./model` : Used to store trained models
+* `./dataset` : Used to store downloaded datasets
 
 ## References
 
