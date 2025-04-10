@@ -1,6 +1,7 @@
 # VDMAF: Cross-language Source Code Vulnerability Detection Using Multi-head Attention Fusion
 
 This repository provides an implementation of the method proposed in the paper “VDMAF: cross-language source code vulnerability detection using multi-head attention fusion”. For more information on data preprocessing, experimental design, and analysis of results, please refer to the relevant chapters in the paper for a more comprehensive understanding of the background and technical details of this research.
+dio: https://doi.org/10.1016/j.infsof.2025.107739
 
 # Approach
 
