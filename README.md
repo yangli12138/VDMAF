@@ -49,3 +49,5 @@ In the replication, we provide:
 
 [3] Laura Wartschinski, Yannic Noller, Thomas Vogel, Timo Kehrer, and Lars Grunske. Vudenc: vulnerability detection with deep learning on a natural codebase for python. *Information and Software Technology*, 144:106809, 2022. https://doi.org/10.1016/j.infsof.2021.106809.
 
+## 许可协议
+本项目采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh) 许可协议。
